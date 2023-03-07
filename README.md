@@ -14,3 +14,12 @@ docker push adaoex/gitopsfc:latest
 
 ## 3) Push na imagem docker
 
+
+## Kustomize
+
+https://kustomize.io/
+
+
+```
+
+```
