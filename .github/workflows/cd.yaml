@@ -20,7 +20,7 @@ jobs:
         password: ${{ secrets.DOCKER_PASSWORD }}
         registry: docker.io
         dockerfile: Dockerfile
-        repository: ${{ secrets.DOCKER_USERNAME }}/gitopsfc
+        image: ${{ secrets.DOCKER_USERNAME }}/gitopsfc
         tags: ${{ github.sha }}, latest
 
     - name: Setup Kustomize
