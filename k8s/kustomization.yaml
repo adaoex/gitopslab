@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: adaoex/gitopsfc
-  newTag: 61de487ce0be30720f4ad97f0f18b2679758f1ee
+  newTag: 7a9e4e2932a7951a5c811a25c66c5dd50a9ae128
